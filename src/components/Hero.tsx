@@ -39,7 +39,7 @@ const Hero = () => {
             transition={{ duration: 0.8, delay: 0.4 }}
             className="text-xl md:text-2xl text-gray-600 dark:text-gray-300 mb-10 max-w-3xl"
           >
-            First-Year Applied Computer Science Student at Dalhousie University with a passion for technology and problem-solving.
+            Second-Year Applied Computer Science Student w/ Minor in Management at Dalhousie University with a passion for technology and problem-solving.
           </motion.p>
           
           <motion.div

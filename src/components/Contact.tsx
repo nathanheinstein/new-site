@@ -47,7 +47,7 @@ const Contact = () => {
                 className="flex items-center gap-3 text-gray-700 dark:text-gray-300 hover:text-primary dark:hover:text-primary transition-colors"
               >
                 <Mail className="w-5 h-5" />
-                <span>nathanheinstein@dal.ca</span>
+                <span>nathan.heinstein@dal.ca</span>
               </a>
               
               <a 
